@@ -79,6 +79,10 @@ a {
     text-decoration: none;
 }
 
+.active {
+    color: 'green';
+}
+
 .about-section {
     color: white !important;
 }
