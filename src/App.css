@@ -1,12 +1,19 @@
 * {
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
+    /* color: white; */
+}
+
+html {
+    height: 100vh;
+    margin: 0;
 }
 
 body {
     background-image: url(../assets/gradient-4k.jpg);
     /* background-color: #ffffff; */
-    width: 100vh;
+    width: 100%;
     margin: 0;
 }
 
@@ -20,14 +27,16 @@ body {
 
 .header {
     /* background-color: #999; */
-    background: rgb(0, 0, 255, 0.0);
+    background: rgb(27, 27, 27, .8);
+    width: 100%;
+    height: 7rem;
 }
 
 .menu-button {
-    width: fit-content;
-    font-size: xx-large;
-    color: white;
-    background-color: rgba(0, 0, 255, 0.0);
+    /* width: fit-content; */
+    /* font-size: xx-large; */
+    /* color: white; */
+    /* background-color: rgba(0, 0, 255, 0.0); */
 }
 
 .title {
@@ -68,4 +77,38 @@ h1:hover {
 
 a {
     text-decoration: none;
+}
+
+.about-section {
+    color: white !important;
+}
+
+.portrait {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+}
+
+.react-logo {
+    content: url(../assets/logo192.png);
+    height: 1rem;
+    position: relative;
+    top: 3px;
+    animation-name: spin;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear; 
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+.project-card{
+
 }
