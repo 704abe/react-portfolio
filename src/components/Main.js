@@ -5,7 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import About from "../pages/about";
 import Portfolio from "../pages/portfolio";
 import Contact from "../pages/contact";
-import Resume from "../pages/resume";
+import Resume from "../assets/my-resume.pdf";
 
 function Main() {
     const [current, setCurrent] = useState(About);
@@ -21,7 +21,7 @@ function Main() {
                 <Nav.Link onClick={() => setCurrent(About)} href="#home">About Me</Nav.Link>
                 <Nav.Link onClick={() => setCurrent(Portfolio)} href="#portfolio">Porftolio</Nav.Link>
                 <Nav.Link onClick={() => setCurrent(Contact)} href="#contact">Contact</Nav.Link>
-                <Nav.Link onClick={() => setCurrent(Resume)} href="#resume">Resume</Nav.Link>
+                <Nav.Link href={Resume} target={"_blank"}>Resume</Nav.Link>
             </Nav>
             </Navbar.Collapse>
         </Container>

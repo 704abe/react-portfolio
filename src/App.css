@@ -111,8 +111,6 @@ b {
 }
 
 .project-card {
-    /* height: fit-content;
-    width: fit-content; */
     height: 800px;
     width: 400px;
 }
@@ -123,6 +121,17 @@ b {
     left: -12px;
 }
 
-/* .open-project {
-    margin: ;
-} */
+.contact-spacer {
+    height: 10rem;
+}
+
+.contact-form {
+    color: white;
+    width: 50%;
+}
+
+@media only screen and (max-width: 720px) {
+    .contact-form {
+        width: 75%;
+    }
+}
