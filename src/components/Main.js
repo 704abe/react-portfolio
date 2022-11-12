@@ -12,10 +12,10 @@ function Main() {
 
   return (
     <>
-        <Navbar bg='dark' variant='dark' expand="lg" className='navibar'>
+        <Navbar variant='dark' expand="lg" className='navibar'>
         <Container>
             <Navbar.Brand href="">Abraham Smith</Navbar.Brand>
-            <Navbar.Toggle aria-controls="basic-navbar-nav" />
+            <Navbar.Toggle className='menu-button border-0 px-5' aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
                 <Nav.Link onClick={() => setCurrent(About)} href="#home">About Me</Nav.Link>
