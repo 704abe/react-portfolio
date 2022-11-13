@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.0d52300a.css",
+    "main.css": "/react-portfolio/static/css/main.804bfd26.css",
     "main.js": "/react-portfolio/static/js/main.76931a98.js",
     "static/media/clothery-club-img.png": "/react-portfolio/static/media/clothery-club-img.529daeb8f156723886a3.png",
     "static/media/code-quiz-img.png": "/react-portfolio/static/media/code-quiz-img.fcce82361347596136e0.png",
@@ -11,11 +11,11 @@
     "static/media/my-resume.pdf": "/react-portfolio/static/media/my-resume.d797d1698375c4f914d2.pdf",
     "static/media/coding-isometric-01.png": "/react-portfolio/static/media/coding-isometric-01.913b186c60a164c92665.png",
     "index.html": "/react-portfolio/index.html",
-    "main.0d52300a.css.map": "/react-portfolio/static/css/main.0d52300a.css.map",
+    "main.804bfd26.css.map": "/react-portfolio/static/css/main.804bfd26.css.map",
     "main.76931a98.js.map": "/react-portfolio/static/js/main.76931a98.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d52300a.css",
+    "static/css/main.804bfd26.css",
     "static/js/main.76931a98.js"
   ]
 }
