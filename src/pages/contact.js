@@ -2,14 +2,16 @@ import React, { useEffect, useState, useRef } from "react";
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import Swal from 'sweetalert2';
-import withReactContent from 'sweetalert2-react-content';
 import emailjs from '@emailjs/browser';
 
 function About () {
-    function handleSubmit(e) {
+    async function handleSubmit(e) {
         const name = e.target[0].value;
         const email = e.target[1].value;
         const message = e.target[2].value;
+
+        console.log(e)
+        console.log(e.target)
 
         if(!name || !email || !message) {
             e.preventDefault();
@@ -22,9 +24,13 @@ function About () {
             return;
         }
 
-        this.contact_number.value = Math.random() * 100000 | 0;
+        emailjs.sendForm('contact_service', 'contact_form', e.target, 'T7rdg2DUbyvdL4rB2');
 
-        emailjs.sendForm('contact_service', 'contact_form', this)
+        Swal.fire({
+            title: 'Email sent!',
+            icon: 'success',
+            showConfirmButton: true,
+        })
     }
 
     function handleBlur(e) {
