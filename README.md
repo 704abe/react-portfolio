@@ -14,6 +14,8 @@ GitHub Profile: https://github.com/704abe
 
 LinkedIn: https://www.linkedin.com/in/704abe/
 
+Email: smith.abraham19@gmail.com
+
 ## Screenshots
 
 ![About Me](./src/assets/Screen%20Shot%202022-11-13%20at%2012.23.05%20PM.png "About Me")
