@@ -23,4 +23,3 @@ Email: smith.abraham19@gmail.com
 ![Portfolio](./src/assets/Screen%20Shot%202022-11-13%20at%2012.23.14%20PM.png "Portfolio")
 
 ![Contact Me](./src/assets/Screen%20Shot%202022-11-13%20at%2012.23.21%20PM.png "Contact Me")
- 
