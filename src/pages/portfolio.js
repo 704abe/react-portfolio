@@ -5,9 +5,10 @@ import weatherDashboardImg from '../assets/weather-dashboard-img.png';
 import passwordGeneratorImg from '../assets/password-generator-img.png';
 import clotheryClubImg from '../assets/clothery-club-img.png';
 import JATEimg from '../assets/JATE-img.png';
+import MERNimg from '../assets/mern-img.png'
 
 function About () {
-
+    
     return (
         <div className="d-flex flex-column p-5 m-auto">
             <div className="">
@@ -15,14 +16,14 @@ function About () {
                 <div className="project-container row d-flex justify-content-center">
 
                     <div className="card project-card col-12 col-md-6 col-lg-3 m-3">
-                        <img className="card-img-top" src={JATEimg} alt="Card cap" />
+                        <img className="card-img-top" src={MERNimg} alt="Card cap" />
                         <div className="card-body">
-                            <h5 className="card-title">Just Another Text Editor</h5>
-                            <div className="card-text">Installable Progressive Web App. Create notes or code snippets with or without an internet connection and reliably retrieve them for later use.</div><br />
-                            <div><b>Technologies:</b>HTML, CSS, JavaScript, NodeJS, WebPack, Babel, Service Worker</div>
+                            <h5 className="card-title">MERN Trivia</h5>
+                            <div className="card-text">Create an account and test your knowledge on thousands on trivia questions!</div><br />
+                            <div><b>Technologies:</b>HTML, CSS, Bootstrap, JavaScript, MongoDB, Express, React, NodeJS, Redux, Mongoose, GraphQL, Apollo</div>
                             <div className="d-flex justify-content-around m-5">
-                                <a href="https://tranquil-hamlet-87981.herokuapp.com/" target={"_blank"} className="open-project btn btn-warning">Launch</a>
-                                <a href="https://github.com/704abe/pwa-text-editor" target={"_blank"} className="open-project btn btn-primary">Repo</a>
+                                <a href="https://mern-trivia-game.herokuapp.com/" target={"_blank"} className="open-project btn btn-warning">Launch</a>
+                                <a href="https://github.com/herald-of-spring/mern-trivia" target={"_blank"} className="open-project btn btn-primary">Repo</a>
                             </div>
                         </div>
                     </div>
