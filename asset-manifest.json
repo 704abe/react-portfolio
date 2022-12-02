@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.804bfd26.css",
-    "main.js": "/react-portfolio/static/js/main.76931a98.js",
+    "main.js": "/react-portfolio/static/js/main.bdcf85b6.js",
     "static/media/clothery-club-img.png": "/react-portfolio/static/media/clothery-club-img.529daeb8f156723886a3.png",
     "static/media/code-quiz-img.png": "/react-portfolio/static/media/code-quiz-img.fcce82361347596136e0.png",
+    "static/media/mern-img.png": "/react-portfolio/static/media/mern-img.440d711c35282c43a8bb.png",
     "static/media/password-generator-img.png": "/react-portfolio/static/media/password-generator-img.cec83535ce46e666d492.png",
     "static/media/weather-dashboard-img.png": "/react-portfolio/static/media/weather-dashboard-img.c5d031b31f99260e31b2.png",
     "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.d41283bba2c45d3c68a5.png",
     "static/media/JATE-img.png": "/react-portfolio/static/media/JATE-img.d9fa0f25ccdf510b39a2.png",
-    "static/media/my-resume.pdf": "/react-portfolio/static/media/my-resume.d797d1698375c4f914d2.pdf",
+    "static/media/Abraham-Resume.pdf": "/react-portfolio/static/media/Abraham-Resume.f974c7ec15da42f86150.pdf",
     "static/media/coding-isometric-01.png": "/react-portfolio/static/media/coding-isometric-01.913b186c60a164c92665.png",
     "index.html": "/react-portfolio/index.html",
     "main.804bfd26.css.map": "/react-portfolio/static/css/main.804bfd26.css.map",
-    "main.76931a98.js.map": "/react-portfolio/static/js/main.76931a98.js.map"
+    "main.bdcf85b6.js.map": "/react-portfolio/static/js/main.bdcf85b6.js.map"
   },
   "entrypoints": [
     "static/css/main.804bfd26.css",
-    "static/js/main.76931a98.js"
+    "static/js/main.bdcf85b6.js"
   ]
 }
