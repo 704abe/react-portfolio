@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
-function About () {
+function Resume () {
 
     return (
         <div>Resume</div>
     )
 }
 
-export default About
+export default Resume

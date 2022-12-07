@@ -4,7 +4,7 @@ import Button from 'react-bootstrap/Button';
 import Swal from 'sweetalert2';
 import emailjs from '@emailjs/browser';
 
-function About () {
+function Contact () {
     async function handleSubmit(e) {
         const name = e.target[0].value;
         const email = e.target[1].value;
@@ -70,4 +70,4 @@ function About () {
     )
 }
 
-export default About
+export default Contact
