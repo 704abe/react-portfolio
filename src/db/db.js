@@ -3,9 +3,21 @@ import codeQuizImg from '../assets/code-quiz-img.png';
 import weatherDashboardImg from '../assets/weather-dashboard-img.png';
 import passwordGeneratorImg from '../assets/password-generator-img.png';
 import clotheryClubImg from '../assets/clothery-club-img.png';
+import dt2Img from '../assets/DT2 Hospitality Solutions_ LLC LOGO-D3.jpeg'
 import MERNimg from '../assets/mern-img.png'
 
-const projects = [
+const professionalProjects = [
+    {
+       "image": dt2Img,
+       "title": "DT2 Hospitality",
+       "description": "Official website for DT2 Hospitality. Submit contact forms powered by AWS.",
+       "technologies": "HTML, CSS, Bootstrap, JavaScript, NodeJS, React, GraphQL, AWS, Amplify, SES, S3, Lambda",
+       "applink": "https://www.dt2hospitality.com/",
+    //    "repolink": "https://github.com/704abe/dt2"
+    }
+]
+
+const bootcampProjects = [
     {
        "image": MERNimg,
        "title": "MERN Trivia",
@@ -56,4 +68,4 @@ const projects = [
     },
 ]
 
-export default projects
+export { bootcampProjects, professionalProjects}
