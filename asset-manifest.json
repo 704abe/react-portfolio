@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.804bfd26.css",
-    "main.js": "/react-portfolio/static/js/main.d8118642.js",
+    "main.js": "/react-portfolio/static/js/main.f634d6ba.js",
     "static/media/clothery-club-img.png": "/react-portfolio/static/media/clothery-club-img.529daeb8f156723886a3.png",
+    "static/media/DT2 Hospitality Solutions_ LLC LOGO-D3.jpeg": "/react-portfolio/static/media/DT2 Hospitality Solutions_ LLC LOGO-D3.a482d65e93eb8ae2b426.jpeg",
     "static/media/code-quiz-img.png": "/react-portfolio/static/media/code-quiz-img.fcce82361347596136e0.png",
     "static/media/mern-img.png": "/react-portfolio/static/media/mern-img.440d711c35282c43a8bb.png",
     "static/media/password-generator-img.png": "/react-portfolio/static/media/password-generator-img.cec83535ce46e666d492.png",
@@ -12,10 +13,10 @@
     "static/media/coding-isometric-01.png": "/react-portfolio/static/media/coding-isometric-01.913b186c60a164c92665.png",
     "index.html": "/react-portfolio/index.html",
     "main.804bfd26.css.map": "/react-portfolio/static/css/main.804bfd26.css.map",
-    "main.d8118642.js.map": "/react-portfolio/static/js/main.d8118642.js.map"
+    "main.f634d6ba.js.map": "/react-portfolio/static/js/main.f634d6ba.js.map"
   },
   "entrypoints": [
     "static/css/main.804bfd26.css",
-    "static/js/main.d8118642.js"
+    "static/js/main.f634d6ba.js"
   ]
 }
