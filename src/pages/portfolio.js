@@ -9,7 +9,7 @@ function Portfolio () {
                 <div className="project-spacer d-none d-lg-block"></div>
 
                 <h3 className="text-white" style={{letterSpacing: '2px'}}>Professional Projects</h3>
-                <div className="p-3"></div>
+                <div className="p-5"></div>
 
                 <div className="project-container row d-flex justify-content-center">
                     {professionalProjects.map((project, i) => { 
