@@ -5,7 +5,6 @@ import passwordGeneratorImg from '../assets/password-generator-img.png';
 import clotheryClubImg from '../assets/clothery-club-img.png';
 import dt2Img from '../assets/DT2 Hospitality Solutions_ LLC LOGO-D3.jpeg'
 import MERNimg from '../assets/mern-img.png'
-
 const professionalProjects = [
     {
        "image": dt2Img,
