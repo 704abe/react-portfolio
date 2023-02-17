@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.804bfd26.css",
-    "main.js": "/react-portfolio/static/js/main.2d9c56ef.js",
+    "main.js": "/react-portfolio/static/js/main.0cf26def.js",
     "static/media/clothery-club-img.png": "/react-portfolio/static/media/clothery-club-img.529daeb8f156723886a3.png",
     "static/media/DT2 Hospitality Solutions_ LLC LOGO-D3.jpeg": "/react-portfolio/static/media/DT2 Hospitality Solutions_ LLC LOGO-D3.a482d65e93eb8ae2b426.jpeg",
     "static/media/code-quiz-img.png": "/react-portfolio/static/media/code-quiz-img.fcce82361347596136e0.png",
     "static/media/mern-img.png": "/react-portfolio/static/media/mern-img.440d711c35282c43a8bb.png",
+    "static/media/Abraham-Smith-Resume.pdf": "/react-portfolio/static/media/Abraham-Smith-Resume.31c8b9f6a380b210eb77.pdf",
     "static/media/password-generator-img.png": "/react-portfolio/static/media/password-generator-img.cec83535ce46e666d492.png",
-    "static/media/Abraham-Smith-Resume-3.pdf": "/react-portfolio/static/media/Abraham-Smith-Resume-3.efae457033bedc6776ce.pdf",
     "static/media/weather-dashboard-img.png": "/react-portfolio/static/media/weather-dashboard-img.c5d031b31f99260e31b2.png",
     "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.d41283bba2c45d3c68a5.png",
     "static/media/coding-isometric-01.png": "/react-portfolio/static/media/coding-isometric-01.913b186c60a164c92665.png",
     "index.html": "/react-portfolio/index.html",
     "main.804bfd26.css.map": "/react-portfolio/static/css/main.804bfd26.css.map",
-    "main.2d9c56ef.js.map": "/react-portfolio/static/js/main.2d9c56ef.js.map"
+    "main.0cf26def.js.map": "/react-portfolio/static/js/main.0cf26def.js.map"
   },
   "entrypoints": [
     "static/css/main.804bfd26.css",
-    "static/js/main.2d9c56ef.js"
+    "static/js/main.0cf26def.js"
   ]
 }
