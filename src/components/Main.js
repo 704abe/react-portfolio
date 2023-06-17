@@ -5,7 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import About from "../pages/about";
 import Portfolio from "../pages/portfolio";
 import Contact from "../pages/contact";
-import Resume from "../assets/Abraham-Smith-Resume.pdf";
+import Resume from "../assets/Abraham_Smith_Resume.pdf";
 import Footer from "./Footer.js"
 
 function Main() {
