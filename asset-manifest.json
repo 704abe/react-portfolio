@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.804bfd26.css",
-    "main.js": "/react-portfolio/static/js/main.7894344a.js",
+    "main.js": "/react-portfolio/static/js/main.4833c148.js",
     "static/media/clothery-club-img.png": "/react-portfolio/static/media/clothery-club-img.529daeb8f156723886a3.png",
     "static/media/gamezonwheelzatl_logo.png": "/react-portfolio/static/media/gamezonwheelzatl_logo.3385dd1739bfdd632768.png",
     "static/media/DT2 Hospitality Solutions_ LLC LOGO-D3.jpeg": "/react-portfolio/static/media/DT2 Hospitality Solutions_ LLC LOGO-D3.a482d65e93eb8ae2b426.jpeg",
@@ -14,10 +14,10 @@
     "static/media/coding-isometric-01.png": "/react-portfolio/static/media/coding-isometric-01.913b186c60a164c92665.png",
     "index.html": "/react-portfolio/index.html",
     "main.804bfd26.css.map": "/react-portfolio/static/css/main.804bfd26.css.map",
-    "main.7894344a.js.map": "/react-portfolio/static/js/main.7894344a.js.map"
+    "main.4833c148.js.map": "/react-portfolio/static/js/main.4833c148.js.map"
   },
   "entrypoints": [
     "static/css/main.804bfd26.css",
-    "static/js/main.7894344a.js"
+    "static/js/main.4833c148.js"
   ]
 }
