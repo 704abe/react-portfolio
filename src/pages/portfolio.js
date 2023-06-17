@@ -16,7 +16,7 @@ function Portfolio () {
                         return (
                         <div key={i} className="card project-card col-12 col-md-6 col-lg-3 m-3">
                             <img className="card-img-top" src={project.image} alt="Card cap" />
-                            <div className="card-body">
+                            <div className="card-body d-flex flex-column justify-content-center">
                                 <h5 className="card-title">{project.title}</h5>
                                 <div className="card-text">{project.description}</div><br />
                                 <div><b>Technologies: </b>{project.technologies}</div>
@@ -38,7 +38,7 @@ function Portfolio () {
                         return (
                         <div key={i} className="card project-card col-12 col-md-6 col-lg-3 m-3">
                             <img className="card-img-top" src={project.image} alt="Card cap" />
-                            <div className="card-body">
+                            <div className="card-body d-flex flex-column justify-content-center">
                                 <h5 className="card-title">{project.title}</h5>
                                 <div className="card-text">{project.description}</div><br />
                                 <div><b>Technologies:</b>{project.technologies}</div>
