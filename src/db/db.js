@@ -5,15 +5,23 @@ import passwordGeneratorImg from '../assets/password-generator-img.png';
 import clotheryClubImg from '../assets/clothery-club-img.png';
 import dt2Img from '../assets/DT2 Hospitality Solutions_ LLC LOGO-D3.jpeg'
 import MERNimg from '../assets/mern-img.png'
+import GOWAtlImg from '../assets/gamezonwheelzatl_logo.png'
 const professionalProjects = [
     {
        "image": dt2Img,
        "title": "DT2 Hospitality",
-       "description": "Official website for DT2 Hospitality. Submit contact forms powered by AWS.",
+       "description": "Official website for DT2 Hospitality. A hospitality task force consulting company. Submit contact forms powered by AWS.",
        "technologies": "HTML, CSS, Bootstrap, JavaScript, NodeJS, React, GraphQL, AWS, Amplify, SES, S3, Lambda",
        "applink": "https://www.dt2hospitality.com/",
     //    "repolink": "https://github.com/704abe/dt2"
-    }
+    },
+    {
+        "image": GOWAtlImg,
+        "title": "Gamez On Wheelz ATL",
+        "description": "Official website for Gamez On Wheelz ATL. Atlanta's number one video game truck. Powered by Wordpress. Hosted on GoDaddy.",
+        "technologies": "HTML, CSS, Wordpress, Astra, Elementor, SEO",
+        "applink": "https://gamezonwheelzatl.net/",
+     }
 ]
 
 const bootcampProjects = [
